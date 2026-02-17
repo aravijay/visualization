@@ -7,10 +7,39 @@
 - Data visualizations are important tools for communication and convincing; we need to be able to evaluate the ways that data are presented in visual form to be critical consumers of information 
 - To test your evaluation skills, locate two public data visualizations online, one good and one bad  
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
-- For each visualization (good and bad):  
+- For each visualization (good and bad):
+
+GOOD VISUALIZATION
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      https://public.tableau.com/app/profile/kevin.wee/viz/NutritionValuesofDimSumIronVizedition/Dashboard
+
+      The main reason I classify this visualization as a good one is due to its clever use of continuity in visual elements, and carefully keying in certain colours with its intended auddience reception. For example, purple boxes with white dots are clearly presented as taking up a larger share of your daily intake of a certain nutrient like cholesterol or sodium, and suggests moderation in consuming that dish. The very next panel presents each individual dish with a number of non-purple or purple 'leaves', thus visually confirming if a dish is less or more healthy than another. It also lets the user approach the cognitive load of a datum more easily, by hiding it behind a hover-over of certain, more visually easy to understand diagram, thus allowing the user to approach the data at a more reasonable pace.
+
+
+
+
+      ```
+    - How could this data visualization have been improved?  
+      ```
+      I would have made the 'energy source triangle' diagram more easy to filter by specific dish subcategories, as clicking on some of the circles for more information became phyiscally unfeasible once the circles were too small.
+
+
+
+
+
+      
+      ```
+
+
+BAD VISUALIZATION
+ Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
+      ```
+      https://public.tableau.com/app/profile/pooja.deshmukh5909/viz/MostPostedUSJobsbyState-MakeoverMonday/Rank1
+
+      The primary issue with this visualization is that it leans too heavily on the concept of proximity and similarity to make its point; while the Rank 2 and Rank 3 charts have more diversity of choice, it is still only split up between 9 jobs, and no real causal link can be established here. It seems that the data does not really have anything to "say", outside of how skewed in representation some posted jobs are. It does not establish any causal link, or concurrent statistic to consider alongside this data. It does not have to, strictly speaking, but it does make the delivered information of this infographic to be rather one-dimensional. The choropleth at the bottom also seems like an afterthought and does little to make the data sortable or able to present new insights.
+
+      
 
 
 
@@ -21,7 +50,7 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      This could have been improved by selecting from a larger sample of jobs and allowing the user to select the level of granularity in field/profession, from general terms like "medical field" all the way down to individual job titles. I also would have used more colour in the choropleth below to better visually represent the skew in job postings without having to mouse over the entire circle that takes up the majority of the screen.
 
 
 
@@ -29,7 +58,7 @@
 
 
       
-      ```
+      ```     
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
 
